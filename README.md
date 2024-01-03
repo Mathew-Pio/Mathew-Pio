@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me oseghaleokononfua@gmail.com
-
+-  I am actively seeking an entry-level role! 🔍
